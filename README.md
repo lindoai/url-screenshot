@@ -4,11 +4,7 @@ Capture a public webpage as an image using a small Cloudflare Worker.
 
 ## Deploy to Cloudflare
 
-Replace `https://github.com/lindoai/url-screenshot` with the final public repo URL when this tool is split into its own repository.
-
-```md
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/lindoai/url-screenshot)
-```
 
 ## Features
 
