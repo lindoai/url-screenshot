@@ -1,0 +1,20 @@
+{
+  "name": "url-screenshot",
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@cloudflare/puppeteer": "^1.1.0",
+    "hono": "^4.12.14"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20251125.0",
+    "typescript": "^5.9.3",
+    "wrangler": "^4.83.0"
+  },
+  "license": "MIT"
+}
